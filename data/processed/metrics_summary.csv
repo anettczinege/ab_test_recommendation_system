@@ -1,0 +1,5 @@
+Metric,Control Mean,Treatment Mean,Absolute Difference,CI Lower,CI Upper,p-value,Significant (α=0.05)
+Click-Through Rate (CTR),0.1503,0.1597,0.0094,0.0084,0.0103,<0.001,True
+7-Day Return Rate,0.8557,0.8597,0.004,-0.0048,0.0127,0.3722,False
+Completion Rate,0.5993,0.591,-0.0083,-0.0119,-0.0047,<0.001,True
+Average Watch Time (Minutes),38.8929,39.5648,0.6719,0.3943,0.9495,<0.001,True

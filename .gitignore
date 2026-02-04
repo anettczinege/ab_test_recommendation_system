@@ -1,0 +1,16 @@
+# Git ignore file 
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
