@@ -92,21 +92,41 @@ The updated algorithm increases short-term engagement, as reflected by a statist
 
 From a strategic perspective:
 - If the primary objective is to maximize interaction volume and platform activity, the treatment algorithm is a strong candidate for rollout.
-- If long-term engagement and content depth are prioritized, further refinement may be required before full deployment.
+- If content depth is prioritized, further refinement may be required before full deployment.
 
 The decision should align with the platform’s broader growth and monetization strategy.
+
+### Recommendation
+A phased rollout is recommended rather than an immediate full deployment. The treatment algorithm improved short-term engagement metrics, but further experimentation is needed to evaluate potential long-term effects on retention and content consumption behavior.
 
 ## Tools & Technologies
 - Python 3.13
 - Python Libraries (pandas, numpy, matplotlib, seaborn, scipy, statsmodels)
 - JupyterLab/Notebook (via Anaconda Navigator)   
-- Git & GitHub  
+- Git & GitHub
 
-## Project Status
-- **Day 0:** Technical environment setup, project folder structure creation completed
-- **Day 1:** Project concept, hypothesis, and metrics finalized
-- **Day 2-3:** Dataset simulation completed
-- **Day 4-5:** Data Cleaning completed
-- **Day 6-7:** Exploratory Data Analysis completed
-- **Day 8-9:** Statistical testing and visualizations completed
-- **Day 10:** Summarized findings and GitHub portfolio submission
+## Skills Demonstrated
+- Product Analytics
+- A/B Testing
+- Hypothesis Testing
+- Statistical Inference
+- Experimental Design
+- Confidence Interval Estimation
+- Metric Design & Evaluation
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+
+## Limitations
+- The dataset is simulated rather than production data
+- Experiment duration (21 days) may not capture long-term retention effects
+- The analysis focuses on engagement outcomes and does not evaluate revenue or subscription impact.
+- External factors such as seasonality, marketing campaigns, or content releases were not modeled in the simulation.
+
+## Next Steps
+- Segment analysis by user cohort (new vs existing users)
+- Incorporate revenue/subscription impact metrics
+- Conduct longer-duration experiments to measure sustained behavioral impact
+- Incorporate user satisfaction or rating-based metrics into evaluation
+
+
